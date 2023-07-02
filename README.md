@@ -63,6 +63,6 @@ CREATE TABLE `outrasformacoes` (
 
 ## Imagens
 
-![Página de Login](Img/login.png)
+![Página de Login](Img/login.PNG)
 
-![Página Principal](Img/principal.png)
+![Página Principal](Img/principal.PNG)
